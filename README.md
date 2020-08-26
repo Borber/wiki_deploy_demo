@@ -1,1 +1,0 @@
-wiki_deploy_demo
